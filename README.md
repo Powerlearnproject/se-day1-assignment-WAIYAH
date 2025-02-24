@@ -8,11 +8,11 @@ Software engineering is the application of engineering principles to design, dev
 
 2. Identify and describe at least three key milestones in the evolution of software engineering.
 
-1968 NATO Conference: Coined the term "software engineering" to address the software crisis.
+Mastering Complexity: The development of structured programming in the 1970s (e.g., Dijkstra's principles) helped manage complex code by promoting modularity and clear logic.
 
-1970s Structured Programming: Introduced systematic approaches to coding, improving software quality.
+Mastering Process: The introduction of the Capability Maturity Model (CMM) in the 1980s standardized software development processes, improving quality and predictability.
 
-2001 Agile Manifesto: Revolutionized software development with iterative and collaborative methodologies.
+Mastering Machine: The rise of object-oriented programming (OOP) in the 1980s and 1990s (e.g., Java, C++) allowed developers to model real-world systems more effectively, leveraging abstraction and encapsulation.
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
 
